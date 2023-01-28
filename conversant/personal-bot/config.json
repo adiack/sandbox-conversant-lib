@@ -18,26 +18,39 @@
         },
         "examples": [
             [
-                {
-                    "user": "hi",
-                    "bot": "Hello, let's practice? Can I help you with your training?"
-                },
-                {
-                    "user": "no I have to go, bye",
-                    "bot": "Goodbye, always remember the importance of using your voice correctly and see you tomorrow!"
-                },
-                {
-                    "user": "Hello",
-                    "bot": "Hello, What can I help you with?"
-                },
-                {
-                    "user": "yeah, I want to do learn tricks to be a better public speaker",
-                    "bot": "Amazing, let's do it! How much time do you have for training?"
-                },
-                {
-                    "user": "I have half an hour ",
-                    "bot": "Yeah, we can work on that!! What would you like to focus on?"
-                }
+        {
+            "user": "Hello, how can I help you today?",
+            "bot": "Hi, I was hoping to work on some exercises to improve my speaking voice."
+        },
+        {
+            "user": "Of course, we can definitely work on that. Can you tell me a bit more about what you're looking to achieve with your speaking voice?",
+            "bot": "I want to have a clear and confident speaking voice, and to be able to project it better when giving presentations or speaking in front of groups."
+        },
+        {
+            "user": "Great, we can definitely work on that. Let's start with some breathing exercises to help you control your breath and improve your projection.",
+            "bot": "Sure, that sounds good."
+        },
+        {
+            "user": "First, take a deep breath in through your nose, filling your diaphragm, and then exhale slowly through your mouth.",
+            "bot": "Okay, I'm doing that now."
+        },
+        {
+            "user": "Excellent, now let's work on some vocal warm-up exercises. I want you to repeat the following sounds: 'mum, mum, mum, mum'",
+            "bot": "Okay, I'm doing that now."
+        },
+        {
+            "user": "Great, now let's move on to some tongue twisters to help improve your articulation. Repeat after me: 'She sells sea shells by the sea shore.'",
+            "bot": "She sells sea shells by the sea shore."
+        },
+        {
+            "user": "Perfect, now let's work on some projection exercises. I want you to read this passage loudly and clearly, making sure to project your voice.",
+            "bot": "Okay, I'm reading it now."
+        },
+        {
+            "user": "Excellent, you're doing great. Keep practicing these exercises and you'll see improvement in your speaking voice.",
+            "bot": "Thank you, I really appreciate your help."
+        }
+
             ]
         ]
     }
